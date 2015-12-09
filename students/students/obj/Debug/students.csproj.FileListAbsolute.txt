@@ -1,0 +1,6 @@
+c:\users\dipesh\documents\visual studio 2013\Projects\students\students\bin\students.dll.config
+c:\users\dipesh\documents\visual studio 2013\Projects\students\students\bin\students.dll
+c:\users\dipesh\documents\visual studio 2013\Projects\students\students\bin\students.pdb
+c:\users\dipesh\documents\visual studio 2013\Projects\students\students\obj\Debug\students.csprojResolveAssemblyReference.cache
+c:\users\dipesh\documents\visual studio 2013\Projects\students\students\obj\Debug\students.dll
+c:\users\dipesh\documents\visual studio 2013\Projects\students\students\obj\Debug\students.pdb
